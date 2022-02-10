@@ -19,3 +19,8 @@
 - Add Feature : Scroll to section on link click
 
 - Add Feature : Add class 'active' to section when near top of viewport
+
+
+
+## to explore it 
+- go to (https://amralaaeledin.github.io/landing-page-fwd/).
