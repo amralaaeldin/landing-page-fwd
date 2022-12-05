@@ -23,4 +23,4 @@
 
 
 ## to explore it 
-- go to (https://amralaaeledin.github.io/landing-page-fwd/).
+- go to (https://amralaaeldin.github.io/landing-page-fwd/).
